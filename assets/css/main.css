@@ -2349,6 +2349,7 @@ input, select, textarea {
 					text-decoration: none;
 					border: 0;
 					outline: 0;
+					padding-right: 18px;
 				}
 
 				#nav > ul > li > ul {
@@ -2462,7 +2463,7 @@ input, select, textarea {
 	#footer {
 		position: relative;
 		overflow: hidden;
-		padding: 6em 0 6em 0;
+		padding: 6em 0 6em 27em;
 		background: #2b252c;
 		color: #fff;
 	}
@@ -2483,6 +2484,7 @@ input, select, textarea {
 
 		#footer .contact {
 			text-align: center;
+			padding-left: 285px;
 		}
 
 			#footer .contact p {
@@ -2682,7 +2684,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding-left: 2em;
+				padding-left: 40em;
 				padding-right: 2em;
 			}
 
